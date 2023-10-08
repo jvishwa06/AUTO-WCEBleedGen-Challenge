@@ -29,16 +29,8 @@ Automatic detection &amp; classification of bleeding and non-bleeding frames fro
 
 Include screenshots or images of the 10 best examples from your validation dataset, showing both classification and detection results with bounding boxes and confidence levels.
 
-1. ![Image 1](validation_image_1.png)
-2. ![Image 2](validation_image_2.png)
-3. ![Image 3](validation_image_3.png)
-4. ![Image 4](validation_image_4.png)
-5. ![Image 5](validation_image_5.png)
-6. ![Image 6](validation_image_6.png)
-7. ![Image 7](validation_image_7.png)
-8. ![Image 8](validation_image_8.png)
-9. ![Image 9](validation_image_9.png)
-10. ![Image 10](validation_image_10.png)
+![Val Conf](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/152fb200-250b-460d-b148-87a38c1e243a)
+
 
 ## Interpretability Plots (Validation)
 
@@ -59,11 +51,11 @@ Include interpretability plots for the 10 best examples from your validation dat
 
 Include screenshots or images of the 5 best examples from testing dataset 1, showing both classification and detection results with bounding boxes and confidence levels.
 
-1.![A0047](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/6824b9f2-ff19-436e-b60f-d185c8531d15)
-2.![A0013](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/509be12c-c6a2-42e6-9184-600d966ba267)
-3.![A0010](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/153d96b8-ac7e-4b30-94d5-0525ad045a17)
-4.![A0006](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/640a6476-cd73-4772-b5a5-9676c40f05c7)
-5.![A0001](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/38cd053b-a517-4d5c-a1a4-008b1f3d3870)
+![A0047](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/6824b9f2-ff19-436e-b60f-d185c8531d15)
+![A0013](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/509be12c-c6a2-42e6-9184-600d966ba267)
+![A0010](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/153d96b8-ac7e-4b30-94d5-0525ad045a17)
+![A0006](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/640a6476-cd73-4772-b5a5-9676c40f05c7)
+![A0001](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/38cd053b-a517-4d5c-a1a4-008b1f3d3870)
 
 ## Interpretability Plots (Testing Dataset 1)
 
@@ -80,11 +72,11 @@ Include interpretability plots for the 5 best examples from testing dataset 1.
 Include screenshots or images of the 5 best examples from testing dataset 2, showing both classification and detection results with bounding boxes and confidence levels.
 
 
-1.![A0550](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/433694b6-c6c5-43cb-b453-4833f61eeb69)
-2.![A0401](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/a34ada6a-8ce7-4c87-8464-53e85349e642)
-3.![A0375](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/fe465090-4f0c-43c9-b1e1-947ff3ab9ba1)
-4.![A0299](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/0c7c31b3-70cd-49b3-ad8f-754a8207c256)
-5.![A0298](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/081b5174-f658-4ff9-a453-ad512c379ede)
+![A0550](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/433694b6-c6c5-43cb-b453-4833f61eeb69)
+![A0401](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/a34ada6a-8ce7-4c87-8464-53e85349e642)
+![A0375](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/fe465090-4f0c-43c9-b1e1-947ff3ab9ba1)
+![A0299](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/0c7c31b3-70cd-49b3-ad8f-754a8207c256)
+![A0298](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/081b5174-f658-4ff9-a453-ad512c379ede)
 
 ## Interpretability Plots (Testing Dataset 2)
 
