@@ -73,11 +73,11 @@ Include interpretability plots for the 5 best examples from testing dataset 1.
 Include screenshots or images of the 5 best examples from testing dataset 2, showing both classification and detection results with bounding boxes and confidence levels.
 
 
-![A0550](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/433694b6-c6c5-43cb-b453-4833f61eeb69)
-![A0401](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/a34ada6a-8ce7-4c87-8464-53e85349e642)
-![A0375](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/fe465090-4f0c-43c9-b1e1-947ff3ab9ba1)
-![A0299](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/0c7c31b3-70cd-49b3-ad8f-754a8207c256)
-![A0298](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/081b5174-f658-4ff9-a453-ad512c379ede)
+A0550![A0550](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/433694b6-c6c5-43cb-b453-4833f61eeb69)
+A0401![A0401](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/a34ada6a-8ce7-4c87-8464-53e85349e642)
+A0375![A0375](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/fe465090-4f0c-43c9-b1e1-947ff3ab9ba1)
+A0299![A0299](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/0c7c31b3-70cd-49b3-ad8f-754a8207c256)
+A0298![A0298](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/081b5174-f658-4ff9-a453-ad512c379ede)
 
 ## Interpretability Plots (Testing Dataset 2)
 
@@ -89,6 +89,4 @@ Include interpretability plots for the 5 best examples from testing dataset 2.
 4. ![Interpretability Plot 4](testing_dataset2_interpretability_plot_4.png)
 5. ![Interpretability Plot 5](testing_dataset2_interpretability_plot_5.png)
 
-## Conclusion
 
-Provide a brief conclusion or summary of your project's results and findings.
