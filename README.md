@@ -21,9 +21,9 @@ Automatic detection &amp; classification of bleeding and non-bleeding frames fro
 
 ### Detection
 
-- **Average Precision:** [Insert AP value here]
-- **Mean Average Precision:** [Insert mAP value here]
-- **Intersection over Union (IoU):** [Insert IoU value here]
+- **Average Precision:** [0.1076]
+- **Mean Average Precision:** [0.10760262837347381]
+- **Intersection over Union (IoU):** [0.45]
 
 ## Sample Images (Validation)
 
