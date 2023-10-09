@@ -62,11 +62,11 @@ A0001![A0001](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/1096
 
 Include interpretability plots for the 5 best examples from testing dataset 1.
 
-A0000![A0000_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/3108fc5f-2381-44cb-9981-ddd499335f92)
-A0013![A0013_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/2cfa967a-e22e-45e1-b397-4003ef8be4af)
-A0010![A0010_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/39dad026-dc35-4d19-a9b7-d39ac50037c0)
-A0038![A0038_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/6c0f424a-3a25-407d-9312-9f11aa62158b)
-A0033![A0033_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/017b85ed-1446-45bf-938e-e74051107e63)
+A0000 ![A0000_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/3108fc5f-2381-44cb-9981-ddd499335f92)
+A0013 ![A0013_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/2cfa967a-e22e-45e1-b397-4003ef8be4af)
+A0010 ![A0010_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/39dad026-dc35-4d19-a9b7-d39ac50037c0)
+A0038 ![A0038_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/6c0f424a-3a25-407d-9312-9f11aa62158b)
+A0033 ![A0033_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/017b85ed-1446-45bf-938e-e74051107e63)
 
 ## Sample Images (Testing Dataset 2)
 
