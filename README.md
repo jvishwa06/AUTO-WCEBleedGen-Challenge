@@ -84,10 +84,11 @@ A0298![A0298](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/1096
 
 Include interpretability plots for the 5 best examples from testing dataset 2.
 
-1. ![Interpretability Plot 1](testing_dataset2_interpretability_plot_1.png)
-2. ![Interpretability Plot 2](testing_dataset2_interpretability_plot_2.png)
-3. ![Interpretability Plot 3](testing_dataset2_interpretability_plot_3.png)
-4. ![Interpretability Plot 4](testing_dataset2_interpretability_plot_4.png)
-5. ![Interpretability Plot 5](testing_dataset2_interpretability_plot_5.png)
+A0059_interpretability![A0059_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/c366e403-dfd2-4a88-bf54-6dae6420e305)
+A0058_interpretability![A0058_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/7ab98bc0-afe5-43bc-a9b0-6550457a2975)
+A0057_interpretability![A0057_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/1c7d6bd7-7727-4613-8438-992ac81b8a5e)
+A0056_interpretability![A0056_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/4adf879c-646e-48dd-8cae-83a74df7f637)
+A0055_interpretability![A0055_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/b3ba1332-1e33-4bc4-b0a0-6c8fa774388d)
+
 
 
