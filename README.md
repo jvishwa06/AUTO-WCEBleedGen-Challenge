@@ -36,16 +36,13 @@ Include screenshots or images of the 10 best examples from your validation datas
 
 Include interpretability plots for the 10 best examples from your validation dataset.
 
-1. ![Interpretability Plot 1](validation_interpretability_plot_1.png)
-2. ![Interpretability Plot 2](validation_interpretability_plot_2.png)
-3. ![Interpretability Plot 3](validation_interpretability_plot_3.png)
-4. ![Interpretability Plot 4](validation_interpretability_plot_4.png)
-5. ![Interpretability Plot 5](validation_interpretability_plot_5.png)
-6. ![Interpretability Plot 6](validation_interpretability_plot_6.png)
-7. ![Interpretability Plot 7](validation_interpretability_plot_7.png)
-8. ![Interpretability Plot 8](validation_interpretability_plot_8.png)
-9. ![Interpretability Plot 9](validation_interpretability_plot_9.png)
-10. ![Interpretability Plot 10](validation_interpretability_plot_10.png)
+![R_curve](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/bd14d96a-d073-4651-8532-0996aa2c832b)
+![PR_curve](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/2ab0108b-900f-4773-be0c-1ff9b8a643cb)
+![P_curve](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/eb44306c-aec1-4547-a8dc-10f5de3a845f)
+![F1_curve](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/71b847dd-1c4d-49af-83ff-a71bd5bc5aee)
+![confusion_matrix_normalized](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/801605f7-f91d-4e22-baf5-d313548ac416)
+![confusion_matrix](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/f9f366fb-4668-46d9-8662-ef234a29f677)
+
 
 ## Sample Images (Testing Dataset 1)
 
