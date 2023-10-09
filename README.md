@@ -62,15 +62,15 @@ A0001![A0001](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/1096
 
 Include interpretability plots for the 5 best examples from testing dataset 1.
 
-A0000![A0000_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/3108fc5f-2381-44cb-9981-ddd499335f92)
+![A0000_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/3108fc5f-2381-44cb-9981-ddd499335f92)A0000
 
-A0013![A0013_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/2cfa967a-e22e-45e1-b397-4003ef8be4af)
+![A0013_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/2cfa967a-e22e-45e1-b397-4003ef8be4af)A0013
 
-A0010![A0010_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/39dad026-dc35-4d19-a9b7-d39ac50037c0)
+![A0010_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/39dad026-dc35-4d19-a9b7-d39ac50037c0)A0010
 
-A0038![A0038_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/6c0f424a-3a25-407d-9312-9f11aa62158b)
+![A0038_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/6c0f424a-3a25-407d-9312-9f11aa62158b)A0038
 
-A0033![A0033_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/017b85ed-1446-45bf-938e-e74051107e63)
+![A0033_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/017b85ed-1446-45bf-938e-e74051107e63)A0033
 
 ## Sample Images (Testing Dataset 2)
 
@@ -88,12 +88,12 @@ A0298![A0298](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/1096
 
 Include interpretability plots for the 5 best examples from testing dataset 2.
 
-A0059![A0059_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/c366e403-dfd2-4a88-bf54-6dae6420e305)
+![A0059_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/c366e403-dfd2-4a88-bf54-6dae6420e305)A0059
 
-A0058![A0058_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/7ab98bc0-afe5-43bc-a9b0-6550457a2975)
+![A0058_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/7ab98bc0-afe5-43bc-a9b0-6550457a2975)A0058
 
-A0057![A0057_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/1c7d6bd7-7727-4613-8438-992ac81b8a5e)
+![A0057_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/1c7d6bd7-7727-4613-8438-992ac81b8a5e)A0057
 
-A0056![A0056_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/4adf879c-646e-48dd-8cae-83a74df7f637)
+![A0056_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/4adf879c-646e-48dd-8cae-83a74df7f637)A0056
 
-A0055![A0055_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/b3ba1332-1e33-4bc4-b0a0-6c8fa774388d)
+![A0055_interpretability](https://github.com/Vishu-06/AUTO-WCEBleedGen-Challenge/assets/109657371/b3ba1332-1e33-4bc4-b0a0-6c8fa774388d)A0055
